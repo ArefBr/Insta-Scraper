@@ -8,4 +8,4 @@ Scrapes followers and followings of a user from a list of usernames
 
 3.Enter the usernames you want the followings/followers to scrape in the "- Usernames.txt"
 
-4.Run main.py
+4.Run "main.py"
