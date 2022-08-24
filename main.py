@@ -13,7 +13,7 @@ import wget
 import math
 import time
 
-#Enter your account info
+#Enter your account info here
 USER_NAME = ""
 PASSWORD = ""
 
